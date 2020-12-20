@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Galaxy Shooter",
+"dataUrl": "Galaxy Shooter Game.data.unityweb",
+"asmCodeUrl": "Galaxy Shooter Game.asm.code.unityweb",
+"asmMemoryUrl": "Galaxy Shooter Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Galaxy Shooter Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
