@@ -88,6 +88,17 @@ body {
   color: #ffffff;
 }
 
+.contactSection .social {
+  display: inline-flex;
+  letter-spacing: 15px;
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.contactSection .social i {
+  color: #fff;
+}
+
 .thumbnail {
   border: 1px solid #e74c3c;
   border-radius: 4px;
